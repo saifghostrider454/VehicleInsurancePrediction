@@ -17,3 +17,6 @@ Matplotlib and Seaborn for visualization and behavior with respect to the target
 NumPy for computationally efficient operations
 Scikit Learn for model training, model optimization, and metrics calculation
 
+
+
+![Alt Text]('insurance.png')
